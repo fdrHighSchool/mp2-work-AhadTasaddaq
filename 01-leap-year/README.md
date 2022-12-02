@@ -9,7 +9,7 @@
       } // end inner if statement
    } // end outer if statement
   ```
-  * **YOUR WRITING HERE**
+    Correct
 
 
 2. Label each as either correct or incorrect syntax. If incorrect, rewrite below:
